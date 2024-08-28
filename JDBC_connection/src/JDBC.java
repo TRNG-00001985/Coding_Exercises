@@ -1,5 +1,5 @@
 import java.sql.*;
-public class DemoJDBC{
+public class JDBC{
     public static void main(String[] args) throws Exception {
         /*
         import package
