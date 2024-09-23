@@ -10,3 +10,6 @@ Will be updated with practice codes, JDBC connectivity exercises, and other rele
 ## Resources
 
 Will be updated with helpful resources, including tutorials, documentation.
+
+Thank you for visiting my repo.
+Please give it a star to my repo.
